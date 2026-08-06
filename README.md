@@ -18,11 +18,10 @@ This repository is under active development. Many features are TODO.
 
 - [ ] **lumen/algo/community.py:2** - add resolution parameter
 - [ ] **lumen/algo/community.py:6** - break ties deterministically
+- [ ] **lumen/algo/community.py:7** - cap iterations to avoid oscillation
 - [ ] **lumen/algo/pagerank.py:2** - converge using L1 delta threshold
 - [ ] **lumen/algo/pagerank.py:3** - support personalized pagerank vectors
-- [ ] **lumen/algo/pagerank.py:80** - add weighted edge support
 - [ ] **lumen/store/adjacency.py:3** - use CSR layout for cache locality
-- [ ] **lumen/store/adjacency.py:30** - support distributed sharded storage
 
 ## 🤝 Contributing
 
